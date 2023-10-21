@@ -1,4 +1,3 @@
-# iOS-Repository-Retriever
 # Simple GitHub Repository Retriever #
 
 ## Brief Description ##
