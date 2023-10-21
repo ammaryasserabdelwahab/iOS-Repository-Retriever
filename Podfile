@@ -8,7 +8,5 @@ target 'Repository Retriever' do
   # Pods for Repository Retriever
 
 pod "SDWebImage"
-pod "Alamofire"
-pod "AlamofireImage"
 
 end
