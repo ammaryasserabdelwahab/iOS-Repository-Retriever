@@ -8,3 +8,4 @@ Redirects user to an external browser window on selecting a repository to view.
 
 
 ## Preview ##
+![app preview](RepoRetriever.gif)
