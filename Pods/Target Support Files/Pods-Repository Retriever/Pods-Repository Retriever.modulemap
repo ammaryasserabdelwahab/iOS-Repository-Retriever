@@ -1,0 +1,6 @@
+framework module Pods_Repository_Retriever {
+  umbrella header "Pods-Repository Retriever-umbrella.h"
+
+  export *
+  module * { export * }
+}
