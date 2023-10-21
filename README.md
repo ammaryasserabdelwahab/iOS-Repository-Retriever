@@ -9,7 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 ```
 A macOS Machine that can run Monterey or newer macOS versions
-Xcode 14.2 (or above) 
+Xcode 14.2 (or above)
+[CocoaPods](https://cocoapods.org/)
 Optionally an iPhone on iOS 13 or above if you want to run on your own iPhone
 ```
 ### How to run the project?
@@ -18,11 +19,11 @@ If you want to run the project on your machine you'll need to do the following:
 ```
 1. Open Xcode
 2. Choose Clone an existing project
-  ⋅⋅* You can optionally create a new Xcode Project and then clone through "Source Control -> Clone" and paste in the repository URL
+   *You can optionally create a new Xcode Project and then clone through "Source Control -> Clone" and paste in the repository URL
 3. Paste in the repository URL and click Clone
 4. Open a terminal window and navigate to the project folder
-5. run `pod install`
-6. Open `Repository Retriever.xcworkspace`
+5. run 'pod install'
+6. Open 'Repository Retriever.xcworkspace'
 4. You're all done! the project should now be on your machine and you should be able to run it on a simulator or your actual iPhone.
 ```
 
