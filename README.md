@@ -7,12 +7,12 @@ Redirects user to an external browser window on selecting a repository to view.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-```
+
 A macOS Machine that can run Monterey or newer macOS versions
 Xcode 14.2 (or above)
 [CocoaPods](https://cocoapods.org/)
 Optionally an iPhone on iOS 13 or above if you want to run on your own iPhone
-```
+
 ### How to run the project?
 If you want to run the project on your machine you'll need to do the following:
 
@@ -32,7 +32,7 @@ If you want to run the project on your machine you'll need to do the following:
 
 
 ### Built With
-```
+
 [SDWebImage](https://github.com/SDWebImage/SDWebImage)
 [Xcode 14.2](https://developer.apple.com/documentation/xcode-release-notes/xcode-14_2-release-notes)
-```
+
